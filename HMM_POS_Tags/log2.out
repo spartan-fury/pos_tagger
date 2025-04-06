@@ -1,0 +1,27 @@
+Training and Evaluating: Fold 1..
+Number of samples in train and test respectively:  45872 11468
+(14, 10537)
+Train Accuracy:  0.9501554622586822
+Test Accuracy:  0.935532832720882
+Training and Evaluating: Fold 2..
+Number of samples in train and test respectively:  45872 11468
+(14, 10466)
+Train Accuracy:  0.9500574493371399
+Test Accuracy:  0.9381533940357469
+Training and Evaluating: Fold 3..
+Number of samples in train and test respectively:  45872 11468
+(14, 10470)
+Train Accuracy:  0.9485656104673099
+Test Accuracy:  0.9412124116887346
+Training and Evaluating: Fold 4..
+Number of samples in train and test respectively:  45872 11468
+(14, 10966)
+Train Accuracy:  0.9501295696485325
+Test Accuracy:  0.9429666616717985
+Training and Evaluating: Fold 5..
+Number of samples in train and test respectively:  45872 11468
+(14, 11231)
+Train Accuracy:  0.9512456540423786
+Test Accuracy:  0.9406486510305928
+5-fold train accuracy: 0.9500307491508085
+5-fold cross validation accuracy: 0.9397027902295509

@@ -1,0 +1,4 @@
+Number of samples in train and test respectively:  51606 5734
+(14, 11648)
+Train Accuracy:  0.9508669220798477
+Test Accuracy:  0.9493555043297331
